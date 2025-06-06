@@ -1,4 +1,4 @@
-## OLA EU SOU O JAPA-DARK 👍🏻
+## OLA EU SOU O DEV_JAPA 👍🏻
 
 - 👨🏻‍🎓 faço faculdade de gestão da tecnologia da informação
 - 👨‍💻 trabalho com front-end
@@ -14,7 +14,7 @@
 </div>
 <br>
 <div>
-<a href="https://www.youtube.com/@japaxl7" target="_blank" ><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/@Dev_japa" target="_blank" ><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/dev.japa_/"  target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/gw64k2tJv6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ariel-da-silva-28aa73265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
