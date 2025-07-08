@@ -5,7 +5,7 @@
 🎓 Estudante de Gestão de TI | 👨‍💻 Foco em Desenvolvimento de Software  
 💡 Aprendendo HTML, CSS, JavaScript  
 🚀 Buscando minha primeira oportunidade como Dev  
-📫 Contato: seu-email@gmail.com | [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+📫 Contato: desenvolvedorjapa.07@gmail.com | [LinkedIn](https://www.linkedin.com/in/arieldasilvaalves/)
 
 ### 🔧 Tecnologias que estou aprendendo:
 - HTML5, CSS3
