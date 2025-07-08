@@ -1,5 +1,5 @@
 ##👋 OLA EU SOU O DEV_JAPA 👍🏻
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🎓 Estudante de Gestão de TI | 👨‍💻 Foco em Desenvolvimento de Software  
 💡 Aprendendo HTML, CSS, JavaScript  
 🚀 Buscando minha primeira oportunidade como Dev  
