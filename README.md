@@ -1,6 +1,4 @@
-## OLA EU SOU O DEV_JAPA 👍🏻
-
-## 👋 Olá! Eu sou o Ariel da Silva Alves
+##👋 OLA EU SOU O DEV_JAPA 👍🏻
 
 🎓 Estudante de Gestão de TI | 👨‍💻 Foco em Desenvolvimento de Software  
 💡 Aprendendo HTML, CSS, JavaScript  
