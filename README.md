@@ -11,7 +11,7 @@
 - Git e GitHub
 - java
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JAPA-DARK=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAPA-DARK&theme=dark&show_icons=true)
 
   
 <div style="display: inline_block">
