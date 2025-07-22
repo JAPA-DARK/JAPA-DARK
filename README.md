@@ -1,7 +1,7 @@
 ##👋 OLA EU SOU O DEV_JAPA 👍🏻
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🎓 Estudante de Gestão de TI | 👨‍💻 Foco em Desenvolvimento de Software  
-💡 Aprendendo HTML, CSS, JavaScript  
+💡 Aprendendo HTML, CSS, JavaScript, java
 🚀 Buscando minha primeira oportunidade como Dev  
 📫 Contato: desenvolvedorjapa.07@gmail.com | [LinkedIn](https://www.linkedin.com/in/arieldasilvaalves/)
 
