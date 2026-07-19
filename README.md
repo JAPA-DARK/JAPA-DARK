@@ -11,7 +11,7 @@
 
 *   **Linguagens:** Java (Lógica de Programação e POO)
 *   **Back-End:** Spring Boot (Estudando)
-*   **Bancos de Dados:** SQL
+*   **Bancos de Dados:** SQL (Estudando)
 *   **Versionamento:** Git e GitHub
 *   **Outros Conhecimentos:** HTML5, CSS3, JavaScript e Raspberry Pi
 
