@@ -1,15 +1,28 @@
 ##👋 OLA EU SOU O DEV_JAPA 👍🏻
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🎓 Estudante de Gestão de TI | 👨‍💻 Foco em Desenvolvimento de Software  
-💡 Aprendendo HTML, CSS, JavaScript, java
-🚀 Buscando minha primeira oportunidade como Dev  
-📫 Contato: desenvolvedorjapa.07@gmail.com | [LinkedIn](https://www.linkedin.com/in/arieldasilvaalves/)
+# 👋 Olá, eu sou o Ariel (Dev Japa) 👍
 
-### 🔧 Tecnologias que estou aprendendo:
-- HTML5, CSS3
-- JavaScript
-- Git e GitHub
-- java
+🚀 **Desenvolvedor Back-End Java em Formação** | Foco em criar soluções robustas, APIs eficientes e arquiteturas escaláveis.
+
+*   📫 **Contato:** desenvolvedorjapa.07@gmail.com
+*   💼 **LinkedIn:** [Meu Perfil no LinkedIn](https://linkedin.com)
+
+---
+
+### 🔧 Tecnologias & Ferramentas
+
+*   **Linguagens:** Java (Lógica de Programação e POO)
+*   **Back-End:** Spring Boot (Estudando)
+*   **Bancos de Dados:** SQL
+*   **Versionamento:** Git e GitHub
+*   **Outros Conhecimentos:** HTML5, CSS3, JavaScript e Raspberry Pi
+
+---
+
+### 📚 Estudos Atuais
+*   Curso Especializado de Java - Loiane Groner (Estruturas de Dados e Orientação a Objetos)
+*   Desenvolvimento de APIs RESTful e persistência de dados
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAPA-DARK&theme=dark&show_icons=true)
 <br>
