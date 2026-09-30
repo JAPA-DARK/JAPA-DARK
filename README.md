@@ -34,6 +34,7 @@ Iniciar minha carreira em **Suporte Técnico / Help Desk N1**, em uma equipe ond
 
 ---
 **my linkedin**
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arieldasilvaalves/)
 <br>
 
