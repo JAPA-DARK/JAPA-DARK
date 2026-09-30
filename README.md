@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Ariel (Dev Japa) 👍
 
-🚀 **Desenvolvedor Back-End Java em Formação** | Foco em criar soluções robustas, APIs eficientes e arquiteturas escaláveis.
+🚀 **Estudante de TI | Suporte Técnico, Redes e Linux | Programação em Java, C e JavaScript.
 
 *   📫 **Contato:** desenvolvedorjapa.07@gmail.com
 *   💼 **LinkedIn:** [Meu Perfil no LinkedIn](https://linkedin.com)
@@ -22,10 +22,9 @@
 *   Desenvolvimento de APIs RESTful e persistência de dados
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAPA-DARK&theme=dark&show_icons=true)
+
 <br>
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAPA-DARK&hide_progress=true)
+
 
   
 <div style="display: inline_block">
