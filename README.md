@@ -1,28 +1,40 @@
 # 👋 Olá, eu sou o Ariel (Dev Japa) 👍
 
-🚀 **Estudante de TI | Suporte Técnico, Redes e Linux | Programação em Java, C e JavaScript.
+🚀 ## 🎯 Objetivo
 
-*   📫 **Contato:** desenvolvedorjapa.07@gmail.com
-*   💼 **LinkedIn:** [Meu Perfil no LinkedIn](https://linkedin.com)
-
----
-
-### 🔧 Tecnologias & Ferramentas
-
-*   **Linguagens:** Java (Lógica de Programação e POO)
-*   **Back-End:** Spring Boot (Estudando)
-*   **Bancos de Dados:** SQL (Estudando)
-*   **Versionamento:** Git e GitHub
-*   **Outros Conhecimentos:** HTML5, CSS3, JavaScript e Raspberry Pi
+Iniciar minha carreira em **Suporte Técnico / Help Desk N1**, em uma equipe onde eu possa aprender, contribuir e crescer com acompanhamento.
 
 ---
 
-### 📚 Estudos Atuais
-*   Curso Especializado de Java - Loiane Groner (Estruturas de Dados e Orientação a Objetos)
-*   Desenvolvimento de APIs RESTful e persistência de dados
+## 📚 Estudos atuais (Cisco Networking Academy)
 
+- Redes: CCNA 1 – Introduction to Networks
+- Segurança: Cybersecurity Essentials, Defesa de Redes e Segurança de Endpoint
+- Sistemas: Fundamentos de Linux
+- Inglês técnico: English for IT
+- Programação: C, C++ e JavaScript
 
+**Estudos paralelos:** Java (POO), Spring Boot e SQL.
 
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+- **Redes e sistemas:** noções de redes, Linux, Raspberry Pi
+- **Linguagens:** Java (lógica e POO), JavaScript, HTML5 e CSS3
+- **Versionamento:** Git e GitHub
+
+---
+
+## 📁 Projetos
+
+- Em breve: laboratório de redes no Packet Tracer
+- Em breve: configuração de Linux com SSH em máquina virtual
+- Em breve: guia de problemas comuns de suporte técnico
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arieldasilvaalves/)
 <br>
 
 
