@@ -33,14 +33,14 @@ Iniciar minha carreira em **Suporte Técnico / Help Desk N1**, em uma equipe ond
 - Em breve: guia de problemas comuns de suporte técnico
 
 ---
-
+**my linkedin**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arieldasilvaalves/)
 <br>
 
 
   
 <div style="display: inline_block">
-Compartilho meus estudos, projetos e conquistas em tecnologia:
+Compartilho meus estudos, projetos e conquistas em tecnologia nessas redes abaixo:
 <br>
   
 ##
