@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Ariel (Dev Japa) 👍
 
-🚀 ## 🎯 Objetivo
+## 🎯 Objetivo
 
 Iniciar minha carreira em **Suporte Técnico / Help Desk N1**, em uma equipe onde eu possa aprender, contribuir e crescer com acompanhamento.
 
